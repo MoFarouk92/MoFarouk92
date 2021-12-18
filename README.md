@@ -1,16 +1,21 @@
-### Hi there 👋
+                              __  __       _                              _     ______                    _    
+                             |  \/  |     | |                            | |   |  ____|                  | |   
+                             | \  / | ___ | |__   __ _ _ __ ___   ___  __| |   | |__ __ _ _ __ ___  _   _| | __
+                             | |\/| |/ _ \| '_ \ / _` | '_ ` _ \ / _ \/ _` |   |  __/ _` | '__/ _ \| | | | |/ /
+                             | |  | | (_) | | | | (_| | | | | | |  __/ (_| |   | | | (_| | | | (_) | |_| |   < 
+                             |_|  |_|\___/|_| |_|\__,_|_| |_| |_|\___|\__,_|   |_|  \__,_|_|  \___/ \__,_|_|\_\
+                                                                                   
+                                                                                   
+                                                                                 
+                                                                                 
+                                                                                                
 
-<!--
-**MohamedFarouk881992/MohamedFarouk881992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                                                
+                                                                                                                                          
+                                                                                                                                         
+- 🔭 I’m currently seeking a job in Data Anaylsis
+- 🌱 I’m currently learning data analysis with Python
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Python & R
+- 📫 How to reach me: mohamed_farouk_engineer@yahoo.com
+- 🇩🇪 Living in Germany
