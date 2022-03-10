@@ -14,7 +14,7 @@
                                                                                                                                           
                                                                                                                                          
 - 🔭 I’m currently seeking a job in Data Anaylsis
-- 🌱 I’m currently learning data analysis with Python
+- 🌱 I’m currently learning data Science with Python and R Programming 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Python & R
 - 📫 How to reach me: mohamed_farouk_engineer@yahoo.com
